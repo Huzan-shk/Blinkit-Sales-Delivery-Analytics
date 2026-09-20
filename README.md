@@ -128,7 +128,7 @@ Blinkit-Sales-Delivery-Analytics/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/satyamsatyam1215-cmd/Blinkit-Sales-Delivery-Analytics.git
+   git clone https://profashnalhuzan93@gmail.com/gethub-cmd/Blinkit-Sales-Delivery-Analytics.git
    cd Blinkit-Sales-Delivery-Analytics
    ```
 2. Place the raw `blinkit_10M.csv` dataset in the project root
